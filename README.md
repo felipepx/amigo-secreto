@@ -14,7 +14,7 @@ Este é um aplicativo web simples desenvolvido em JavaScript, HTML e CSS para or
 
 1. Clone este repositório:
 \```
-git clone https://github.com/usuario/amigo-secreto.git
+[git clone https://github.com/felipepx/amigosecreto.git
 \```
 
 2. Abra o arquivo `index.html` no seu navegador web.
